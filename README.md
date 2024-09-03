@@ -21,5 +21,9 @@ This project implements a solution to find the longest path in a Directed Acycli
 - Add support for detecting multiple longest paths.
 - Handle disconnected components more gracefully.
 
+## Test It With Some Data
+![Screenshot (239)](https://github.com/user-attachments/assets/c398150e-b4e3-44af-8983-b32ba2f0e1fa)
+
+
 ## Author
 - Mussie Teklehaimanot
